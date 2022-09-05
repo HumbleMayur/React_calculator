@@ -1,6 +1,6 @@
 
 
-![Project Preview](./src/calc-app.png)
+
 
 ## Available Scripts
 
